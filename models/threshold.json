@@ -1,0 +1,7 @@
+{
+  "best_threshold": 0.88,
+  "best_macro_f05": 0.25,
+  "best_macro_precision": 0.25,
+  "best_macro_recall": 0.25,
+  "singleton_accuracy_pct": 100.0
+}

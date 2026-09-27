@@ -1,0 +1,231 @@
+entity_id	business_name	business_address	country
+S2-00001	Venture Resources Limited	257 Delta St, Phoenix AZ 85001	US
+S2-00002	Prime Industries Incorporated	662 Global Blvd, Pune 411001	India
+S2-00003	Swift Group L.L.C.	35 Eagle Blvd, Chennai 600001	India
+S2-00004	United Group L.L.C.	135 United Blvd, Pune 411001	India
+S2-00005	Star Logistics Corporation	766 Zenith Ave, Delhi 110001	India
+S2-00006	Pioneer Group L.L.C.	136 Swift Blvd, Chicago IL 60601	US
+S2-00007	Delta Resources Limited	514 Summit Ave, Hyderabad 500001	India
+S2-00008	United Group L.L.C.	936 Capital Blvd, Delhi 110001	India
+S2-00009	Alpha Tech Pvt. Ltd.	892 Atlas St, Pune 411001	India
+S2-00010	Titan Resources Limited	987 United Ave, Chennai 600001	India
+S2-00011	Apex Group L.L.C.	881 Pioneer Blvd, Bangalore 560001	India
+S2-00012	Nexus Resources Limited	810 Pioneer St, New York NY 10001	US
+S2-00013	Swift Group L.L.C.	550 Star Rd, Delhi 110001	India
+S2-00014	Zenith Logistics Corporation	689 Summit Rd, Delhi 110001	India
+S2-00015	Zenith Logistics Corporation	963 Horizon St, Pune 411001	India
+S2-00016	Bright Industries Incorporated	240 Capital St, Dallas TX 75201	US
+S2-00017	Capital Tech Pvt. Ltd.	906 Swift Blvd, Hyderabad 500001	India
+S2-00018	Swift Group L.L.C.	227 United Rd, Phoenix AZ 85001	US
+S2-00019	Zenith Logistics Corporation	310 Zenith St, Dallas TX 75201	US
+S2-00020	Acme Tech Pvt. Ltd.	47 Global Blvd, Bangalore 560001	India
+S2-00021	Horizon Industries Incorporated	119 Star Ave, Houston TX 77001	US
+S2-00022	Star Logistics Corporation	139 Pioneer Rd, Hyderabad 500001	India
+S2-00023	Apex Group L.L.C.	687 Swift Rd, Los Angeles CA 90001	US
+S2-00024	Pioneer Group L.L.C.	761 Delta Rd, Phoenix AZ 85001	US
+S2-00025	Pioneer Group L.L.C.	102 Capital Rd, Dallas TX 75201	US
+S2-00026	Horizon Industries Incorporated	34 Horizon Ave, Delhi 110001	India
+S2-00027	Venture Resources Limited	456 Apex Blvd, Houston TX 77001	US
+S2-00028	Venture Resources Limited	703 Horizon Blvd, New York NY 10001	US
+S2-00029	Zenith Logistics Corporation	408 Summit Ave, Mumbai 400001	India
+S2-00030	Eagle Logistics Corporation	972 Venture St, Mumbai 400001	India
+S2-00031	Prime Industries Incorporated	218 Titan St, Pune 411001	India
+S2-00032	Capital Tech Pvt. Ltd.	806 Atlas Ave, Mumbai 400001	India
+S2-00033	Delta Resources Limited	806 Eagle Ave, Bangalore 560001	India
+S2-00034	Nexus Resources Limited	850 Swift Ave, Mumbai 400001	India
+S2-00035	Apex Group L.L.C.	222 Apex Blvd, Phoenix AZ 85001	US
+S2-00036	Apex Group L.L.C.	808 Titan St, Chicago IL 60601	US
+S2-00037	United Group L.L.C.	880 Delta Ave, Los Angeles CA 90001	US
+S2-00038	Summit Logistics Corporation	257 Alpha St, Phoenix AZ 85001	US
+S2-00039	Delta Resources Limited	888 Acme Ave, Pune 411001	India
+S2-00040	Atlas Tech Pvt. Ltd.	367 Apex Blvd, New York NY 10001	US
+S2-00041	Venture Resources Limited	179 Summit St, New York NY 10001	US
+S2-00042	Prime Industries Incorporated	760 Zenith St, Bangalore 560001	India
+S2-00043	Prime Industries Incorporated	66 Capital Rd, Dallas TX 75201	US
+S2-00044	Acme Tech Pvt. Ltd.	526 Eagle St, Los Angeles CA 90001	US
+S2-00045	Star Logistics Corporation	516 Apex St, Chennai 600001	India
+S2-00046	Venture Resources Limited	803 Bright Blvd, Pune 411001	India
+S2-00047	Nexus Resources Limited	659 Acme St, Houston TX 77001	US
+S2-00048	Delta Resources Limited	868 Pioneer Rd, Chennai 600001	India
+S2-00049	Eagle Logistics Corporation	111 Capital Rd, Pune 411001	India
+S2-00050	United Group L.L.C.	921 United Blvd, Mumbai 400001	India
+S2-00051	Venture Resources Limited	152 United Ave, Phoenix AZ 85001	US
+S2-00052	Prime Industries Incorporated	640 Eagle Blvd, Los Angeles CA 90001	US
+S2-00053	Atlas Tech Pvt. Ltd.	612 Bright Blvd, Chennai 600001	India
+S2-00054	Alpha Tech Pvt. Ltd.	518 Titan Rd, Houston TX 77001	US
+S2-00055	Capital Tech Pvt. Ltd.	813 Star Ave, Mumbai 400001	India
+S2-00056	United Group L.L.C.	463 Apex Rd, Houston TX 77001	US
+S2-00057	Capital Tech Pvt. Ltd.	848 Venture Rd, Los Angeles CA 90001	US
+S2-00058	Delta Resources Limited	748 Star Blvd, Chennai 600001	India
+S2-00059	Summit Logistics Corporation	321 Summit Blvd, Houston TX 77001	US
+S2-00060	Titan Resources Limited	704 Capital St, Chicago IL 60601	US
+S2-00061	Zenith Logistics Corporation	852 United St, New York NY 10001	US
+S2-00062	Pioneer Group L.L.C.	99 Horizon Ave, Chennai 600001	India
+S2-00063	Atlas Tech Pvt. Ltd.	62 Eagle Blvd, Phoenix AZ 85001	US
+S2-00064	Star Logistics Corporation	126 Zenith Blvd, Dallas TX 75201	US
+S2-00065	Nexus Resources Limited	964 Zenith St, Pune 411001	India
+S2-00066	Horizon Industries Incorporated	615 Nexus Blvd, Los Angeles CA 90001	US
+S2-00067	Atlas Tech Pvt. Ltd.	592 Bright Ave, Mumbai 400001	India
+S2-00068	Delta Resources Limited	673 Capital Ave, Chicago IL 60601	US
+S2-00069	Apex Group L.L.C.	359 Swift Blvd, New York NY 10001	US
+S2-00070	Alpha Tech Pvt. Ltd.	781 Summit Ave, New York NY 10001	US
+S2-00071	Swift Group L.L.C.	866 Swift St, Chennai 600001	India
+S2-00072	Apex Group L.L.C.	952 Summit St, Phoenix AZ 85001	US
+S2-00073	Global Industries Incorporated	280 Nexus Blvd, Chicago IL 60601	US
+S2-00074	Alpha Tech Pvt. Ltd.	7 Alpha Ave, Los Angeles CA 90001	US
+S2-00075	Star Logistics Corporation	674 Pioneer St, Phoenix AZ 85001	US
+S2-00076	Summit Logistics Corporation	759 Acme St, Chicago IL 60601	US
+S2-00077	Global Industries Incorporated	544 Prime Rd, Dallas TX 75201	US
+S2-00078	Acme Tech Pvt. Ltd.	465 Atlas Ave, Houston TX 77001	US
+S2-00079	Apex Group L.L.C.	320 Atlas St, Los Angeles CA 90001	US
+S2-00080	Capital Tech Pvt. Ltd.	160 Alpha St, New York NY 10001	US
+S2-00081	Capital Tech Pvt. Ltd.	84 Summit Rd, Dallas TX 75201	US
+S2-00082	Zenith Logistics Corporation	435 Capital Rd, Dallas TX 75201	US
+S2-00083	Nexus Resources Limited	280 Prime St, Chennai 600001	India
+S2-00084	Bright Industries Incorporated	441 Star Blvd, Delhi 110001	India
+S2-00085	Horizon Industries Incorporated	695 Eagle Rd, Pune 411001	India
+S2-00086	Atlas Tech Pvt. Ltd.	684 Nexus St, Hyderabad 500001	India
+S2-00087	Summit Logistics Corporation	405 Titan St, Bangalore 560001	India
+S2-00088	Global Industries Incorporated	210 Nexus Ave, New York NY 10001	US
+S2-00089	Alpha Tech Pvt. Ltd.	783 Summit Blvd, Chicago IL 60601	US
+S2-00090	Nexus Resources Limited	123 Acme Rd, Los Angeles CA 90001	US
+S2-00091	United Group L.L.C.	441 Alpha Ave, Pune 411001	India
+S2-00092	Acme Tech Pvt. Ltd.	546 Apex Blvd, Houston TX 77001	US
+S2-00093	Acme Tech Pvt. Ltd.	407 Global Rd, New York NY 10001	US
+S2-00094	Eagle Logistics Corporation	471 United Blvd, Mumbai 400001	India
+S2-00095	Summit Logistics Corporation	440 Eagle Rd, Phoenix AZ 85001	US
+S2-00096	Prime Industries Incorporated	656 Zenith Blvd, Pune 411001	India
+S2-00097	Horizon Industries Incorporated	415 Acme Blvd, New York NY 10001	US
+S2-00098	Atlas Tech Pvt. Ltd.	821 Titan Rd, Chicago IL 60601	US
+S2-00099	Swift Group L.L.C.	942 Horizon St, Pune 411001	India
+S2-00100	Atlas Tech Pvt. Ltd.	865 Star Ave, Houston TX 77001	US
+S2-00101	Alpha Tech Pvt. Ltd.	604 Pioneer St, Chennai 600001	India
+S2-00102	Titan Resources Limited	892 Nexus Blvd, Houston TX 77001	US
+S2-00103	Star Logistics Corporation	342 Alpha St, Chicago IL 60601	US
+S2-00104	Zenith Logistics Corporation	649 Star Ave, Hyderabad 500001	India
+S2-00105	Acme Tech Pvt. Ltd.	360 Delta Ave, Los Angeles CA 90001	US
+S2-00106	Acme Tech Pvt. Ltd.	150 Summit Ave, New York NY 10001	US
+S2-00107	Nexus Resources Limited	617 Delta St, Bangalore 560001	India
+S2-00108	Titan Resources Limited	975 Capital Rd, Chicago IL 60601	US
+S2-00109	Star Logistics Corporation	779 Eagle Rd, Hyderabad 500001	India
+S2-00110	Pioneer Group L.L.C.	947 Eagle Blvd, Pune 411001	India
+S2-00111	Eagle Logistics Corporation	324 Delta Rd, Dallas TX 75201	US
+S2-00112	Pioneer Group L.L.C.	481 Venture Blvd, New York NY 10001	US
+S2-00113	Global Industries Incorporated	606 Global Blvd, Los Angeles CA 90001	US
+S2-00114	Eagle Logistics Corporation	76 Nexus Rd, Phoenix AZ 85001	US
+S2-00115	Apex Group L.L.C.	39 Global Blvd, Houston TX 77001	US
+S2-00116	Titan Resources Limited	79 United Rd, Delhi 110001	India
+S2-00117	Bright Industries Incorporated	595 Swift St, Chennai 600001	India
+S2-00118	Summit Logistics Corporation	931 Eagle Ave, Houston TX 77001	US
+S2-00119	Acme Tech Pvt. Ltd.	620 Capital Ave, Delhi 110001	India
+S2-00120	Pioneer Group L.L.C.	462 Star Blvd, Mumbai 400001	India
+S2-00121	Horizon Industries Incorporated	87 Bright Ave, Pune 411001	India
+S2-00122	United Group L.L.C.	254 Venture Rd, New York NY 10001	US
+S2-00123	Capital Tech Pvt. Ltd.	536 Titan Ave, Hyderabad 500001	India
+S2-00124	Delta Resources Limited	382 Nexus Rd, Los Angeles CA 90001	US
+S2-00125	Bright Industries Incorporated	794 Atlas St, Chennai 600001	India
+S2-00126	Delta Resources Limited	663 Atlas St, Pune 411001	India
+S2-00127	Prime Industries Incorporated	97 Swift Rd, Delhi 110001	India
+S2-00128	Prime Industries Incorporated	259 Titan Ave, Delhi 110001	India
+S2-00129	Nexus Resources Limited	84 Eagle Ave, Los Angeles CA 90001	US
+S2-00130	Bright Industries Incorporated	318 Pioneer Ave, Delhi 110001	India
+S2-00131	Swift Group L.L.C.	726 United Blvd, Hyderabad 500001	India
+S2-00132	Global Industries Incorporated	386 Atlas Ave, Phoenix AZ 85001	US
+S2-00133	Global Industries Incorporated	720 Bright St, Dallas TX 75201	US
+S2-00134	Horizon Industries Incorporated	687 Zenith Blvd, Pune 411001	India
+S2-00135	Alpha Tech Pvt. Ltd.	372 Nexus Ave, Mumbai 400001	India
+S2-00136	Titan Resources Limited	350 Capital Ave, Chicago IL 60601	US
+S2-00137	Eagle Logistics Corporation	141 Delta St, Bangalore 560001	India
+S2-00138	Global Industries Incorporated	865 Star St, Delhi 110001	India
+S2-00139	Summit Logistics Corporation	345 Titan Ave, Dallas TX 75201	US
+S2-00140	United Group L.L.C.	386 Delta Ave, Phoenix AZ 85001	US
+S2-00141	Bright Industries Incorporated	852 Titan Ave, Bangalore 560001	India
+S2-00142	Bright Industries Incorporated	449 Global Rd, Pune 411001	India
+S2-00143	Titan Resources Limited	693 Apex Rd, Los Angeles CA 90001	US
+S2-00144	Global Industries Incorporated	292 Venture Ave, Hyderabad 500001	India
+S2-00145	Alpha Tech Pvt. Ltd.	245 Nexus Rd, Hyderabad 500001	India
+S2-00146	Summit Logistics Corporation	377 Eagle Rd, Bangalore 560001	India
+S2-00147	Star Logistics Corporation	788 Nexus Rd, Chennai 600001	India
+S2-00148	Swift Group L.L.C.	541 Zenith Ave, Hyderabad 500001	India
+S2-00149	Venture Resources Limited	821 Titan Ave, Chicago IL 60601	US
+S2-00150	Eagle Logistics Corporation	54 Capital Blvd, Los Angeles CA 90001	US
+S2-00151	Acme Tech Pvt. Ltd.	867 Bright St, Dallas TX 75201	US
+S2-00152	Global Industries Incorporated	782 Alpha Blvd, Mumbai 400001	India
+S2-00153	United Group L.L.C.	151 Zenith St, Hyderabad 500001	India
+S2-00154	Star Logistics Corporation	906 Horizon St, Houston TX 77001	US
+S2-00155	Delta Resources Limited	406 Bright Blvd, Mumbai 400001	India
+S2-00156	Alpha Tech Pvt. Ltd.	84 Horizon Ave, Houston TX 77001	US
+S2-00157	Prime Industries Incorporated	954 Star Blvd, Los Angeles CA 90001	US
+S2-00158	Apex Group L.L.C.	40 Nexus Rd, Chicago IL 60601	US
+S2-00159	Summit Logistics Corporation	481 Venture St, Dallas TX 75201	US
+S2-00160	Nexus Resources Limited	263 Prime Ave, New York NY 10001	US
+S2-00161	Atlas Tech Pvt. Ltd.	795 Nexus Ave, Mumbai 400001	India
+S2-00162	Horizon Industries Incorporated	49 Apex Rd, Mumbai 400001	India
+S2-00163	Pioneer Group L.L.C.	114 Capital St, Mumbai 400001	India
+S2-00164	Zenith Logistics Corporation	148 Nexus Rd, Dallas TX 75201	US
+S2-00165	Venture Resources Limited	362 Apex Rd, Phoenix AZ 85001	US
+S2-00166	Capital Tech Pvt. Ltd.	685 United Blvd, Dallas TX 75201	US
+S2-00167	Bright Industries Incorporated	558 Bright St, Phoenix AZ 85001	US
+S2-00168	Swift Group L.L.C.	45 Pioneer Blvd, Chennai 600001	India
+S2-00169	Eagle Logistics Corporation	17 Horizon St, Pune 411001	India
+S2-00170	Titan Resources Limited	751 Star Blvd, Bangalore 560001	India
+S2-00171	Acme Tech Pvt. Ltd.	361 Swift Blvd, New York NY 10001	US
+S2-00172	Global Industries Incorporated	476 Capital Ave, Dallas TX 75201	US
+S2-00173	United Group L.L.C.	734 Venture St, New York NY 10001	US
+S2-00174	Star Logistics Corporation	45 Prime St, Bangalore 560001	India
+S2-00175	Delta Resources Limited	528 Pioneer Rd, Delhi 110001	India
+S2-00176	Alpha Tech Pvt. Ltd.	772 Prime Blvd, Mumbai 400001	India
+S2-00177	Prime Industries Incorporated	887 Atlas Blvd, Mumbai 400001	India
+S2-00178	Apex Group L.L.C.	448 Pioneer Rd, Los Angeles CA 90001	US
+S2-00179	Summit Logistics Corporation	998 Alpha Rd, Delhi 110001	India
+S2-00180	Nexus Resources Limited	947 Bright Blvd, Delhi 110001	India
+S2-00181	Atlas Tech Pvt. Ltd.	435 United Rd, Dallas TX 75201	US
+S2-00182	Horizon Industries Incorporated	301 Atlas St, Phoenix AZ 85001	US
+S2-00183	Pioneer Group L.L.C.	677 Nexus Blvd, Los Angeles CA 90001	US
+S2-00184	Zenith Logistics Corporation	735 Zenith Ave, Hyderabad 500001	India
+S2-00185	Venture Resources Limited	458 Global Blvd, Delhi 110001	India
+S2-00186	Capital Tech Pvt. Ltd.	655 Global St, Delhi 110001	India
+S2-00187	Bright Industries Incorporated	526 Alpha St, Delhi 110001	India
+S2-00188	Swift Group L.L.C.	695 Venture St, Phoenix AZ 85001	US
+S2-00189	Eagle Logistics Corporation	242 Horizon Blvd, New York NY 10001	US
+S2-00190	Titan Resources Limited	34 Titan Ave, Hyderabad 500001	India
+S2-00191	Acme Tech Pvt. Ltd.	381 Venture St, Delhi 110001	India
+S2-00192	Global Industries Incorporated	376 Pioneer Blvd, Phoenix AZ 85001	US
+S2-00193	United Group L.L.C.	984 Star St, Bangalore 560001	India
+S2-00194	Star Logistics Corporation	531 Pioneer St, Houston TX 77001	US
+S2-00195	Delta Resources Limited	721 Venture Ave, Delhi 110001	India
+S2-00196	Alpha Tech Pvt. Ltd.	939 Capital Ave, Pune 411001	India
+S2-00197	Prime Industries Incorporated	874 United Rd, Chicago IL 60601	US
+S2-00198	Apex Group L.L.C.	456 United Blvd, Dallas TX 75201	US
+S2-00199	Summit Logistics Corporation	67 Swift Blvd, Pune 411001	India
+S2-00200	Nexus Resources Limited	729 Alpha Blvd, Bangalore 560001	India
+S2-00201	Atlas Tech Pvt. Ltd.	206 Delta Ave, New York NY 10001	US
+S2-00202	Horizon Industries Incorporated	370 Swift Blvd, Mumbai 400001	India
+S2-00203	Pioneer Group L.L.C.	133 Titan St, Hyderabad 500001	India
+S2-00204	Zenith Logistics Corporation	408 Capital Rd, Los Angeles CA 90001	US
+S2-00205	Venture Resources Limited	76 Delta Blvd, Hyderabad 500001	India
+S2-00206	Capital Tech Pvt. Ltd.	478 Bright Blvd, Houston TX 77001	US
+S2-00207	Bright Industries Incorporated	656 Eagle Ave, Phoenix AZ 85001	US
+S2-00208	Swift Group L.L.C.	515 Global St, Houston TX 77001	US
+S2-00209	Eagle Logistics Corporation	169 Alpha Blvd, Los Angeles CA 90001	US
+S2-00210	Titan Resources Limited	971 Bright Blvd, Los Angeles CA 90001	US
+S2-00211	Acme Tech Pvt. Ltd.	202 Swift Blvd, Los Angeles CA 90001	US
+S2-00212	Global Industries Incorporated	311 Titan St, Dallas TX 75201	US
+S2-00213	United Group L.L.C.	965 Eagle Ave, Phoenix AZ 85001	US
+S2-00214	Star Logistics Corporation	640 Titan Blvd, Dallas TX 75201	US
+S2-00215	Delta Resources Limited	84 Global Blvd, New York NY 10001	US
+S2-00216	Alpha Tech Pvt. Ltd.	427 Titan St, Phoenix AZ 85001	US
+S2-00217	Prime Industries Incorporated	559 Nexus Blvd, Pune 411001	India
+S2-00218	Apex Group L.L.C.	825 Pioneer Blvd, Bangalore 560001	India
+S2-00219	Summit Logistics Corporation	706 Global Ave, Mumbai 400001	India
+S2-00220	Nexus Resources Limited	496 Venture Ave, Chennai 600001	India
+S2-00221	Atlas Tech Pvt. Ltd.	148 Atlas Blvd, Hyderabad 500001	India
+S2-00222	Horizon Industries Incorporated	134 Horizon St, Chennai 600001	India
+S2-00223	Pioneer Group L.L.C.	478 Star Blvd, Bangalore 560001	India
+S2-00224	Zenith Logistics Corporation	145 Star St, Bangalore 560001	India
+S2-00225	Venture Resources Limited	885 Titan Rd, Chennai 600001	India
+S2-00226	Capital Tech Pvt. Ltd.	834 Atlas Blvd, Chicago IL 60601	US
+S2-00227	Bright Industries Incorporated	511 Bright Rd, Chicago IL 60601	US
+S2-00228	Swift Group L.L.C.	510 Acme St, Delhi 110001	India
+S2-00229	Eagle Logistics Corporation	469 Apex Ave, Hyderabad 500001	India
+S2-00230	Titan Resources Limited	52 Nexus Rd, Mumbai 400001	India

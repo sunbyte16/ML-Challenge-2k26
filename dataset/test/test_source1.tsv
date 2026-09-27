@@ -1,0 +1,61 @@
+entity_id	business_name	business_address	country
+S1-T00001	Acme Tech Private Limited	140 Prime Road, Houston TX 77001	US
+S1-T00002	Global Industries Inc.	669 Capital Road, Marseille 13001	France
+S1-T00003	United Group LLC	426 Venture Road, Lyon 69001	France
+S1-T00004	Star Logistics Corp.	579 Acme Avenue, New York NY 10001	US
+S1-T00005	Delta Resources Ltd.	282 Apex Boulevard, Mumbai 400001	India
+S1-T00006	Alpha Tech Private Limited	580 Capital Street, Houston TX 77001	US
+S1-T00007	Prime Industries Inc.	275 Swift Boulevard, Paris 75001	France
+S1-T00008	Apex Group LLC	779 Venture Avenue, Paris 75001	France
+S1-T00009	Summit Logistics Corp.	754 Apex Boulevard, Mumbai 400001	India
+S1-T00010	Nexus Resources Ltd.	270 Horizon Street, Houston TX 77001	US
+S1-T00011	Atlas Tech Private Limited	795 Apex Avenue, Mumbai 400001	India
+S1-T00012	Horizon Industries Inc.	706 Horizon Road, Marseille 13001	France
+S1-T00013	Pioneer Group LLC	143 Prime Avenue, Phoenix AZ 85001	US
+S1-T00014	Zenith Logistics Corp.	360 Swift Boulevard, Phoenix AZ 85001	US
+S1-T00015	Venture Resources Ltd.	173 Atlas Boulevard, Marseille 13001	France
+S1-T00016	Capital Tech Private Limited	274 Bright Street, Hyderabad 500001	India
+S1-T00017	Bright Industries Inc.	941 Global Boulevard, Houston TX 77001	US
+S1-T00018	Swift Group LLC	719 Delta Avenue, Paris 75001	France
+S1-T00019	Eagle Logistics Corp.	330 Apex Road, Dallas TX 75201	US
+S1-T00020	Titan Resources Ltd.	592 Summit Road, Bangalore 560001	India
+S1-T00021	Acme Tech Private Limited	78 United Road, Chennai 600001	India
+S1-T00022	Global Industries Inc.	285 Horizon Road, Marseille 13001	France
+S1-T00023	United Group LLC	596 Acme Street, Delhi 110001	India
+S1-T00024	Star Logistics Corp.	651 Horizon Street, Lyon 69001	France
+S1-T00025	Delta Resources Ltd.	224 Zenith Avenue, Lyon 69001	France
+S1-T00026	Alpha Tech Private Limited	331 Nexus Boulevard, Delhi 110001	India
+S1-T00027	Prime Industries Inc.	134 Eagle Road, Marseille 13001	France
+S1-T00028	Apex Group LLC	781 Global Street, Pune 411001	India
+S1-T00029	Summit Logistics Corp.	803 Venture Street, Dallas TX 75201	US
+S1-T00030	Nexus Resources Ltd.	452 Venture Street, Chicago IL 60601	US
+S1-T00031	Atlas Tech Private Limited	706 Delta Boulevard, Bangalore 560001	India
+S1-T00032	Horizon Industries Inc.	96 Horizon Boulevard, Los Angeles CA 90001	US
+S1-T00033	Pioneer Group LLC	681 Alpha Street, Los Angeles CA 90001	US
+S1-T00034	Zenith Logistics Corp.	313 Apex Road, Pune 411001	India
+S1-T00035	Venture Resources Ltd.	721 Star Street, Paris 75001	France
+S1-T00036	Capital Tech Private Limited	80 Delta Avenue, Houston TX 77001	US
+S1-T00037	Bright Industries Inc.	456 Acme Street, Marseille 13001	France
+S1-T00038	Swift Group LLC	837 Star Road, Lyon 69001	France
+S1-T00039	Eagle Logistics Corp.	490 United Avenue, Paris 75001	France
+S1-T00040	Titan Resources Ltd.	749 Star Street, Mumbai 400001	India
+S1-T00041	Acme Tech Private Limited	903 Nexus Avenue, Delhi 110001	India
+S1-T00042	Global Industries Inc.	657 Delta Street, Bangalore 560001	India
+S1-T00043	United Group LLC	9 Titan Avenue, Marseille 13001	France
+S1-T00044	Star Logistics Corp.	740 Prime Avenue, Delhi 110001	India
+S1-T00045	Delta Resources Ltd.	704 Venture Avenue, Hyderabad 500001	India
+S1-T00046	Alpha Tech Private Limited	144 Star Road, New York NY 10001	US
+S1-T00047	Prime Industries Inc.	323 Delta Avenue, Chennai 600001	India
+S1-T00048	Apex Group LLC	87 Apex Boulevard, Pune 411001	India
+S1-T00049	Summit Logistics Corp.	869 Nexus Avenue, Paris 75001	France
+S1-T00050	Nexus Resources Ltd.	522 Prime Road, Marseille 13001	France
+S1-T00051	Atlas Tech Private Limited	56 Apex Road, Pune 411001	India
+S1-T00052	Horizon Industries Inc.	247 Capital Street, Mumbai 400001	India
+S1-T00053	Pioneer Group LLC	370 Atlas Avenue, Paris 75001	France
+S1-T00054	Zenith Logistics Corp.	431 Horizon Avenue, Hyderabad 500001	India
+S1-T00055	Venture Resources Ltd.	18 Eagle Street, Mumbai 400001	India
+S1-T00056	Capital Tech Private Limited	221 Global Street, Los Angeles CA 90001	US
+S1-T00057	Bright Industries Inc.	294 Bright Road, Hyderabad 500001	India
+S1-T00058	Swift Group LLC	412 United Avenue, Pune 411001	India
+S1-T00059	Eagle Logistics Corp.	318 United Avenue, Mumbai 400001	India
+S1-T00060	Titan Resources Ltd.	335 Pioneer Street, Phoenix AZ 85001	US
